@@ -2325,10 +2325,6 @@ http://srvx.io:80/RdSFa/vnEnT/2316
 http://srvx.io:80/RdSFa/vnEnT/1701
 #EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Alternativos",Tooncast SD [Alter]
 http://srvx.io:80/RdSFa/vnEnT/2139
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",TransTV HD
-http://srvx.io:80/RdSFa/vnEnT/30593
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",TransTV HD 2
-http://srvx.io:80/RdSFa/vnEnT/30594
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Filmes e Séries",Travel Box Brazil FHD
 http://srvx.io:80/RdSFa/vnEnT/48238
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Alternativos",Travel Box Brazil FHD [Alter]
@@ -4197,7 +4193,70 @@ http://srvx.io:80/RdSFa/vnEnT/2133
 http://srvx.io:80/RdSFa/vnEnT/1653
 #EXTINF:-1 tvg-logo="http://a5.vc/aVc" group-title="Canais | Alternativos",ZooMoo SD [Alter]
 http://srvx.io:80/RdSFa/vnEnT/2111
-
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Blue Hustler HD
+http://srvx.io:80/RdSFa/vnEnT/44217
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Brazzers Europe HD
+http://srvx.io:80/RdSFa/vnEnT/44218
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Candy HD
+http://srvx.io:80/RdSFa/vnEnT/44219
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Cento x Cento HD
+http://srvx.io:80/RdSFa/vnEnT/44220
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Dorcel TV HD
+http://srvx.io:80/RdSFa/vnEnT/44221
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Passion HD
+http://srvx.io:80/RdSFa/vnEnT/44223
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Penthouse Black HD
+http://srvx.io:80/RdSFa/vnEnT/44224
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Penthouse Quickies HD
+http://srvx.io:80/RdSFa/vnEnT/44225
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Pink - 0 HD
+http://srvx.io:80/RdSFa/vnEnT/44226
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",[+18] PlayboyTV FHD
+http://srvx.io:80/RdSFa/vnEnT/1954
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",[+18] PlayboyTV FHD [H265]
+http://srvx.io:80/RdSFa/vnEnT/25423
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",[+18] PlayboyTV HD
+http://srvx.io:80/RdSFa/vnEnT/1649
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Alternativos",[+18] PlayboyTV HD [Alter]
+http://srvx.io:80/RdSFa/vnEnT/2309
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",[+18] PlayboyTV SD
+http://srvx.io:80/RdSFa/vnEnT/1650
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Alternativos",[+18] PlayboyTV SD [Alter]
+http://srvx.io:80/RdSFa/vnEnT/2166
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Private HD
+http://srvx.io:80/RdSFa/vnEnT/44227
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Redlight HD
+http://srvx.io:80/RdSFa/vnEnT/44228
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Runosch HD
+http://srvx.io:80/RdSFa/vnEnT/44229
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] SCT HD
+http://srvx.io:80/RdSFa/vnEnT/44230
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Sex Prive FHD [H265]
+http://srvx.io:80/RdSFa/vnEnT/30591
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Sex Prive HD 
+http://srvx.io:80/RdSFa/vnEnT/30592
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Sext6senso HD
+http://srvx.io:80/RdSFa/vnEnT/44231
+#EXTINF:-1 tvg-logo="http://a5.vc/P38" group-title="Canais | Adultos",[+18] Sextreme FHD [H265]
+http://srvx.io:80/RdSFa/vnEnT/25368
+#EXTINF:-1 tvg-logo="http://a5.vc/P38" group-title="Canais | Adultos",[+18] Sextreme SD
+http://srvx.io:80/RdSFa/vnEnT/1648
+#EXTINF:-1 tvg-logo="http://a5.vc/P38" group-title="Canais | Alternativos",[+18] Sextreme SD [Alter]
+http://srvx.io:80/RdSFa/vnEnT/2105
+#EXTINF:-1 tvg-logo="http://a5.vc/lVe" group-title="Canais | Adultos",[+18] SexyHot FHD [H265]
+http://srvx.io:80/RdSFa/vnEnT/25369
+#EXTINF:-1 tvg-logo="http://a5.vc/lVe" group-title="Canais | Adultos",[+18] SexyHot SD
+http://srvx.io:80/RdSFa/vnEnT/1647
+#EXTINF:-1 tvg-logo="http://a5.vc/lVe" group-title="Canais | Alternativos",[+18] SexyHot SD [Alter]
+http://srvx.io:80/RdSFa/vnEnT/2104
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Shalun TV HD
+http://srvx.io:80/RdSFa/vnEnT/44232
+#EXTINF:-1 tvg-logo="http://a5.vc/81c" group-title="Canais | Adultos",[+18] Venus FHD [H265]
+http://srvx.io:80/RdSFa/vnEnT/25365
+#EXTINF:-1 tvg-logo="http://a5.vc/81c" group-title="Canais | Adultos",[+18] Venus SD
+http://srvx.io:80/RdSFa/vnEnT/1646
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[+18] Vivid Red TV HD
+http://srvx.io:80/RdSFa/vnEnT/44233
 #EXTINF:-1 tvg-logo="http://a5.vc/IJJ" group-title="Canais | 24 Horas",[24H] 101 Dalmatas
 http://srvx.io:80/RdSFa/vnEnT/47458
 #EXTINF:-1 tvg-logo="http://a5.vc/84v" group-title="Canais | 24 Horas",[24H] 3 Palavrinhas
@@ -5506,5 +5565,51 @@ http://srvx.io:80/RdSFa/vnEnT/48109
 http://srvx.io:80/RdSFa/vnEnT/48110
 #EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2014)
 http://srvx.io:80/RdSFa/vnEnT/48111
+#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Canais | Adultos",[24H] [+18] A Casa Das Brasileirinhas - Pack 1
+http://srvx.io:80/RdSFa/vnEnT/48112
+#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Canais | Adultos",[24H] [+18] A Casa Das Brasileirinhas - Pack 2
+http://srvx.io:80/RdSFa/vnEnT/48113
+#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Canais | Adultos",[24H] [+18] A Casa Das Brasileirinhas - Pack 3
+http://srvx.io:80/RdSFa/vnEnT/48114
+#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Canais | Adultos",[24H] [+18] A Casa Das Brasileirinhas - Pack 4
+http://srvx.io:80/RdSFa/vnEnT/48115
+#EXTINF:-1 tvg-logo="http://a5.vc/t80" group-title="Canais | Adultos",[24H] [+18] Brazzers
+http://srvx.io:80/RdSFa/vnEnT/48116
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Filmes Amadores
+http://srvx.io:80/RdSFa/vnEnT/48117
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Filmes Brasileiras
+http://srvx.io:80/RdSFa/vnEnT/48118
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Filmes Gozo 1
+http://srvx.io:80/RdSFa/vnEnT/48119
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Filmes Gozo 2
+http://srvx.io:80/RdSFa/vnEnT/48120
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Filmes Loira
+http://srvx.io:80/RdSFa/vnEnT/48121
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Filmes Ruivas
+http://srvx.io:80/RdSFa/vnEnT/48122
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Filmes Trans
+http://srvx.io:80/RdSFa/vnEnT/48123
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Flagra
+http://srvx.io:80/RdSFa/vnEnT/48124
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Videos Amadores
+http://srvx.io:80/RdSFa/vnEnT/48125
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Videos Anal
+http://srvx.io:80/RdSFa/vnEnT/48126
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Videos Brasileiras
+http://srvx.io:80/RdSFa/vnEnT/48127
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Videos Hentai
+http://srvx.io:80/RdSFa/vnEnT/48128
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Videos Lesbicas
+http://srvx.io:80/RdSFa/vnEnT/48129
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Videos Mia Khalifa
+http://srvx.io:80/RdSFa/vnEnT/48130
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Videos Porno Gay
+http://srvx.io:80/RdSFa/vnEnT/48131
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Videos Ruivas
+http://srvx.io:80/RdSFa/vnEnT/48132
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Videos Teste de Fudelidade
+http://srvx.io:80/RdSFa/vnEnT/48133
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Canais | Adultos",[24H] [+18] Wow Porn
+http://srvx.io:80/RdSFa/vnEnT/48134
 #EXTINF:-1 tvg-logo="http://a5.vc/poc" group-title="Radios",[RJ] Itaipava FM - 98,7 FM
 http://srvx.io:80/RdSFa/vnEnT/48152
