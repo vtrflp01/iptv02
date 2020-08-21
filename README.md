@@ -2325,10 +2325,6 @@ http://srvx.io:80/jZvzj/bWXeq/2316
 http://srvx.io:80/jZvzj/bWXeq/1701
 #EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Alternativos",Tooncast SD [Alter]
 http://srvx.io:80/jZvzj/bWXeq/2139
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",TransTV HD
-http://srvx.io:80/jZvzj/bWXeq/30593
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",TransTV HD 2
-http://srvx.io:80/jZvzj/bWXeq/30594
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Filmes e Séries",Travel Box Brazil FHD
 http://srvx.io:80/jZvzj/bWXeq/48238
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Alternativos",Travel Box Brazil FHD [Alter]
